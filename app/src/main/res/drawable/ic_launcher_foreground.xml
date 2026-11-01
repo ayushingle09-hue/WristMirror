@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Watch Straps Top & Bottom -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M44,21h20v14h-20z M44,73h20v14h-20z" />
+        
+    <!-- Watch Outer Case -->
+    <path
+        android:fillColor="#0E1726"
+        android:pathData="M34,35c0,-4.4 3.6,-8 8,-8h24c4.4,0 8,3.6 8,8v38c0,4.4 -3.6,8 -8,8h-24c-4.4,0 -8,-3.6 -8,-8z" />
+
+    <!-- Outer Bezel Stroke -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2"
+        android:pathData="M42,28h24c3.9,0 7,3.1 7,7v38c0,3.9 -3.1,7 -7,7h-24c-3.9,0 -7,-3.1 -7,-7v-38c0,-3.9 3.1,-7 7,-7z" />
+
+    <!-- Watch AMOLED Screen -->
+    <path
+        android:fillColor="#04070B"
+        android:pathData="M38,36c0,-2.2 1.8,-4 4,-4h26c2.2,0 4,1.8 4,4v36c0,2.2 -1.8,4 -4,4h-26c-2.2,0 -4,-1.8 -4,-4z" />
+
+    <!-- Mirror Wave / Signal Glow Elements -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,42a12,12 0 0,0 -8.5,3.5l2.1,2.1a9,9 0 0,1 12.8,0l2.1,-2.1a12,12 0 0,0 -8.5,-3.5z" />
+
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,49a5,5 0 0,0 -3.5,1.5l2.1,2.1a2,2 0 0,1 2.8,0l2.1,-2.1a5,5 0 0,0 -3.5,-1.5z" />
+
+    <!-- Center Remote / Screen Node -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- Mirror Reflection Accent Line -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,67h20" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "WristMirror",
+  "description": "Smartwatch remote control and companion app for mirror streaming, media controls, and BLE diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
